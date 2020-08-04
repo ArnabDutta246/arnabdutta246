@@ -9,3 +9,4 @@
 - 📫 How to reach me: @ArnabDu16772692 my twitter account
 - 😄 Pronouns: ehiahahaehaha
 - ⚡ Fun fact: I can play the bamboo flute with romantic Bollywood songs
+<img src="https://github-readme-stats.vercel.app/api?username=arnabdutta246&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
