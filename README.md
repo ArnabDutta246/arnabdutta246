@@ -24,3 +24,7 @@
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=arnabdutta246&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+### Some Featured App
+
+![Flutter-getx-pasta-shop](https://github.com/ArnabDutta246/flutter-getx-shopping-cart/blob/master/asset/images/ezgif.com-gif-maker(2).gif) 
