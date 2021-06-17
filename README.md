@@ -27,6 +27,6 @@
 
 ### Some Featured App
 
-Flutter-getx-pasta-shop |
------------- |
-![Flutter-getx-pasta-shop](https://github.com/ArnabDutta246/flutter-getx-shopping-cart/blob/master/asset/images/ezgif.com-gif-maker(2).gif) 
+Flutter-getx-pasta-shop | Ionic-Yoga-App |
+----------------------- | -------------- |
+<img align="center" alt="Flutter-getx-pasta-shop" width="330px" src="https://github.com/ArnabDutta246/flutter-getx-shopping-cart/blob/master/asset/images/ezgif.com-gif-maker(2).gif" />|<img align="center" alt="Ionic-Yoga-App" width="330px" src="https://github.com/ArnabDutta246/ionic_yoga_app/blob/main/src/assets/screenshot/daily-yoga-list.JPG" />
